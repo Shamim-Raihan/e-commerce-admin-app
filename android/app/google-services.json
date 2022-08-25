@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "862209802510",
+    "project_id": "e-commerce-cf4da",
+    "storage_bucket": "e-commerce-cf4da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862209802510:android:b05e46ea5c7f30bb80175f",
+        "android_client_info": {
+          "package_name": "com.example.seip_e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862209802510-s9qs6asbm1hv5mnb7vo7m2joerr3k6el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAIJu2KFY87XUrLuKxlcOArCpSshlxptw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862209802510-s9qs6asbm1hv5mnb7vo7m2joerr3k6el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
